@@ -1,4 +1,4 @@
-#Group 21: Sydney Tran 1585868, Chanel Muir 1597610, Leyton McKinney 1179472
+
 .data
     input_buffer: .space 20
     overflow_message: .asciiz "input error!\n"
