@@ -1,2 +1,2 @@
-# Booth-s-Algorithm
+# Booths-Algorithm
 Booth's Algorithm in Assembly Language (MIPS)
